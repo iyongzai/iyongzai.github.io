@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.mbaex.app.dev</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.0.40</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
