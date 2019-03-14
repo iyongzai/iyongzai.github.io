@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://poc6atxid.sabkt.gdipper.com/201903141720.ipa</string>
+					<string>https://mbaex-app-test.oss-cn-hongkong.aliyuncs.com/ios/201903142117.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.mbaex.app.test</string>
 				<key>bundle-version</key>
-				<string>7.0.0.84</string>
+				<string>7.0.0.85</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
