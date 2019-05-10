@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mbaex-app-test.oss-cn-hongkong.aliyuncs.com/ios/201905061803.ipa</string>
+					<string>https://mbaex-app-test.oss-cn-hongkong.aliyuncs.com/ios/201905101531.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.mbaex.app.test</string>
 				<key>bundle-version</key>
-				<string>13.0.0.103</string>
+				<string>13.0.0.104</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
